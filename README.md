@@ -6,7 +6,8 @@ clone this repository to your local machine
 
 Ensure you have a C compiler installed on your system, and use the provided makefile for building the executable. 
 
-##Usage
+## Usage
+
 To run the program, use the following command:
 ```
 ./hapax [<options>] <datafile> [ <datafile> ...]
